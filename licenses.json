@@ -1,0 +1,14 @@
+{
+  "licenses": [
+    {
+      "name": "dad",
+      "hash": "1e8841e146e982848d8cbff2a4dac5739f1cf5356b86ffa9a8cc41a85ecc9e03",
+      "active": true
+    },
+    {
+      "name": "uncle chicken",
+      "hash": "10a28c5d6e083c992f012830f2d386b81583290c7ff2ed02953b3a385afff218",
+      "active": true
+    }
+  ]
+}
