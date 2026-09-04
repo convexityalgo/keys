@@ -1,13 +1,18 @@
 {
   "licenses": [
     {
+      "name": "sophia",
+      "hash": "64abbc0dad4753da9b2dda98e0b73b9acf5f637ae47fff74b26ed6d005bc34d8",
+      "active": true
+    },
+    {
       "name": "dad",
-      "hash": "1e8841e146e982848d8cbff2a4dac5739f1cf5356b86ffa9a8cc41a85ecc9e03",
+      "hash": "5861f71a063f18989170c7469af5cdf7cf54597ce2c0edf11c9504d1e81a985e",
       "active": true
     },
     {
       "name": "uncle chicken",
-      "hash": "10a28c5d6e083c992f012830f2d386b81583290c7ff2ed02953b3a385afff218",
+      "hash": "0a211f2ecbe5d04249579e6f5ba71c3b5fb5051a850749754d761b6d524efc55",
       "active": true
     }
   ]
